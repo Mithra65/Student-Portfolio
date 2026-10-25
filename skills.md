@@ -1,16 +1,20 @@
 # Technical Skills
 
-Replace these examples with skills you can confidently discuss in an interview.
-
 ## Programming Languages
-- Java — Beginner / Intermediate
-- Python — Beginner / Intermediate
-- C — Beginner
+- Java — Intermediate
+- Python — Beginner
+- C — Intermediate
+- C++ — Intermediate
 
 ## Web Technologies
 - HTML
 - CSS
-- JavaScript (currently learning)
+- JavaScript — Currently learning
+
+## Database
+- SQL
+- Oracle Database
+- MongoDB — Currently learning
 
 ## Developer Tools
 - Git
@@ -19,5 +23,8 @@ Replace these examples with skills you can confidently discuss in an interview.
 
 ## Skills to Improve
 - Data Structures and Algorithms
-- SQL and database fundamentals
-- Testing and debugging
+- Advanced Python
+- Machine Learning
+- SQL and Database Fundamentals
+- Testing and Debugging
+- Problem Solving

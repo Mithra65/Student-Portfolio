@@ -1,18 +1,24 @@
 # Education
 
 ## Bachelor of Technology (B.Tech)
-- **Branch:** Computer Science and Engineering
-- **Institution:** Your College Name
-- **Study period:** 20XX–20XX
-- **CGPA / Percentage:** Add if you wish to share it
+- **Branch:** Artificial Intelligence and Machine Learning
+- **Institution:** Aditya College of Engineering and Technology (Autonomous)
+- **Study period:** 2024–2028
+- **CGPA / Percentage:** 9.02 / 10.00
 
 ## Relevant Coursework
 - Programming Fundamentals
 - Data Structures and Algorithms
 - Database Management Systems
-- Computer Networks
+- Machine Learning
+- Computer Networks & Operating Systems
 - Software Engineering
 
 ## Achievements and Certifications
-- Add verified certifications, hackathons, awards, or academic achievements.
-- Include the year and issuing organisation where relevant.
+- Oracle Java Foundations Certification — Oracle
+- HackerRank SQL Basic Certification — HackerRank
+- HackerRank SQL Intermediate Certification — HackerRank
+- C++ Essentials Certification
+- Deloitte Australia Data Analytics Job Simulation — Deloitte
+- 3rd Prize in SQL Competition — Aditya University and Oracle Academy
+- Google DCGC 2.0 Hack Sprint 2025 — Participation
